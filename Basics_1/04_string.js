@@ -14,3 +14,5 @@ console.log(arr);
 let str2 = "apple,banana,grapes,orange";
 arr2 = str2.split(",");
 console.log(arr2);
+
+console.log("hello");
