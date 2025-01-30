@@ -31,4 +31,6 @@ console.log(myArr); //[ 0, 1, 4, 3 ]
 console.log(newArr); //0,1,4,3
 console.log(typeof newArr); //string
 
+ //++++++++++++++++++++++++++++++++++++++++SLICE/SPLICE +++++++++++++++++++++++++++++++++++++++++
 
+ 
