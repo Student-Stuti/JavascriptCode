@@ -39,3 +39,17 @@ console.table([accountEmail, accountPassword, accountCity ,accountState]);
 │    2    │     'Mohali'      │
 │    3    │     undefined 
 */
+
+
+var a = 200;
+{
+  let a = 400;
+}
+console.log("a", a);
+let b = a;
+console.log("b", b);
+{
+  let b = -400;
+  console.log("b", b);
+}
+console.log(b);

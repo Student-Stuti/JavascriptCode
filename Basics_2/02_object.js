@@ -10,10 +10,14 @@ const jsUser = {
   lastLoggedin: ["Monday", "Saturday"],
 };
 
-console.log(jsUser.email); //stuti@gmail.com
+// console.log(jsUser.email); //stuti@gmail.com
 
-console.log(jsUser["email"]); //stuti@gmail.com
+// console.log(jsUser["email"]); //stuti@gmail.com
 
-console.log(typeof jsUser.mySym); //undefined
+// console.log(typeof jsUser.mySym); //undefined
 
-console.log(jsUser[mySym]); //mykey1
+// console.log(jsUser[mySym]); //mykey1
+
+
+
+
